@@ -1,0 +1,11 @@
+{
+  "name": "Mongo",
+  "connector": "mongodb",
+  "url": "mongodb://localhost:27017/ghost-island",
+  "host": "localhost",
+  "port": 27101,
+  "user": "",
+  "password": "",
+  "database": "ghost-island",
+  "enableGeoIndexing": true
+}

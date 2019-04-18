@@ -1,0 +1,9 @@
+service:
+  dashboard:
+    port: 8081
+  cargo:
+    port: 8082
+  batch:
+    port: 8083
+  analysis:
+    port: 8084
